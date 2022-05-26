@@ -6,6 +6,8 @@
     box-sizing: border-box;
 }
 
+
+
 body,
 input,
 textarea{
@@ -395,3 +397,5 @@ textarea.input{
         padding: 0.45rem 1.2rem;
     }
 }
+
+
